@@ -3,3 +3,4 @@ Web application which allowing an authorized user perform CRUD on product and im
 How to deploy: 
 + Edit compatible password in content of context.xml file from META-INF folder
 + Create database by run DBScript-Product.sql run MS SQL Server
++ Deploy
